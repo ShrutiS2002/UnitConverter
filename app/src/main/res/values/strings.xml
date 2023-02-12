@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="welcome_to_converter">WELCOME TO CONVERTER!</string>
+    <string name="enter_number">ENTER NUMBER:</string>
+    <string name="button">Button</string>
+    <string name="centimeter">CENTIMETER</string>
+    <string name="miles">MILES</string>
+    <string name="kilometer">KILOMETER</string>
+    <string name="meters">METERS</string>
+</resources>
